@@ -1,0 +1,12 @@
+[
+  {
+    "gpsfix": "bezkoder",
+    "timestamp": "26",
+    "messages": "Hello World"
+  },
+  {
+    "gpsfix": "bezkoder Master",
+    "timestamp": "30",
+    "messages": "Hello World Master"
+  }
+]

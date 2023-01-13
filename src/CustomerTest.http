@@ -8,6 +8,14 @@ Content-Type: application/json
   "email": "jane.smith@company.com"
 }
 
+POST http://127.0.0.1:8080/reports
+Content-Type: application/json
+
+{
+  "gpsfix": "Jane",
+  "timestamp": "Smith",
+  "messages": "jane.smith@company.com"
+}
 
 ###
 POST http://127.0.0.1:8080/customer
